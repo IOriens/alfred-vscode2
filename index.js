@@ -14,7 +14,7 @@ const utils = require('./lib/utils');
     alfy.input,
     ['name', 'group'],
   )
-    .sort((a, b) => a.name.localeCompare(b.name))
+    // .sort((a, b) => a.name.localeCompare(b.name))
     .map(project => ({
       title: utils.getTitle(project),
       subtitle: utils.getSubtitle(project),
