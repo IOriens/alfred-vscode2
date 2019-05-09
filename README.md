@@ -1,14 +1,9 @@
-# alfred-vscode
+# alfred-vscode2
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![Github all releases](https://img.shields.io/github/downloads/kbshl/alfred-vscode/total.svg)](https://github.com/kbshl/alfred-vscode/releases/)
-[![GitHub stars](https://img.shields.io/github/stars/kbshl/alfred-vscode.svg)](https://github.com/kbshl/alfred-vscode/stargazers/)
-[![NPM total downloads](https://img.shields.io/npm/dt/alfred-vscode.svg)](https://www.npmjs.com/package/alfred-vscode)
-[![NPM license](https://img.shields.io/npm/l/alfred-vscode.svg)](https://www.npmjs.com/package/alfred-vscode)
 
-> [Alfred 3](https://www.alfredapp.com) workflow that allows you to browse and open [Visual Studio Code (Insiders)](https://code.visualstudio.com/) projects or simply open specified folders/files.
+> [Alfred 3](https://www.alfredapp.com) workflow that allows you to browse and open rencent [Visual Studio Code](https://code.visualstudio.com/) projects or simply open specified folders/files.
 
-![alfred-vscode in action](docs/screenshot.png)
+![](./docs/screenshot.png)
 
 ## Prerequisites
 
@@ -16,18 +11,17 @@ You need
 
 - [Node.js 8+](https://nodejs.org)
 - [Alfred 3](https://www.alfredapp.com) with the paid [Powerpack](https://www.alfredapp.com/powerpack/) upgrade
-- [Visual Studio Code Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Only if you like to have a project manager for VS Code.
 - [Visual Studio Code Command Line](https://code.visualstudio.com/docs/setup/mac)
 
 ## Installation
 
 ```bash
-npm install --global alfred-vscode
+npm install --global alfred-vscode2
 ```
 
 **Note for Insiders Edition users:**
 
-Remember to set the `vscodeEdition` variable to `code-insiders` in the Workflow Configuration!
+Remember to set the `vscodeEdition` variable to `code` in the Workflow Configuration!
 
 **Note for VSCodium users:**
 
@@ -39,7 +33,7 @@ It defaults to `code`.
 
 ### Projects
 
-Simply type `vsc` followed by space to list all projects. Optionally type a query to search for a
+Simply type `c` followed by space to list all projects. Optionally type a query to search for a
 specific project or group. The overall list shows 100 projects at max.
 
 Select a project and press <kbd>Enter</kbd> to open it in VS Code or Code Insiders.

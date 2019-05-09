@@ -112,7 +112,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>vsc</string>
+				<string>c</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -130,9 +130,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Load Visual Studio Code (Insiders) project</string>
+				<string>Load Visual Studio Code  project</string>
 				<key>title</key>
-				<string>Visual Studio Code (Insiders)</string>
+				<string>Visual Studio Code </string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -277,7 +277,7 @@
 				<key>subtext</key>
 				<string>Open within Visual Studio Code (Insiders)</string>
 				<key>title</key>
-				<string>Visual Studio Code (Insiders)</string>
+				<string>Visual Studio Code </string>
 				<key>types</key>
 				<array/>
 				<key>withspace</key>
