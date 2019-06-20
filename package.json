@@ -1,6 +1,6 @@
 {
   "name": "alfred-vscode2",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Alfred workflow that allows you to browse and open Visual Studio Code (Insiders) projects",
   "license": "MIT",
   "repository": "kbshl/alfred-vscode",
@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "alfy": "^0.8.0",
-    "fs-extra": "^4.0.1",
+    "fs-extra": "^4.0.3",
     "fuzzysort": "^1.1.4"
   },
   "devDependencies": {

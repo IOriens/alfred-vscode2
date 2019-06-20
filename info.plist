@@ -132,7 +132,7 @@
 				<key>subtext</key>
 				<string>Load Visual Studio Code  project</string>
 				<key>title</key>
-				<string>Visual Studio Code </string>
+				<string>Visual Studio Code</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -277,7 +277,7 @@
 				<key>subtext</key>
 				<string>Open within Visual Studio Code (Insiders)</string>
 				<key>title</key>
-				<string>Visual Studio Code </string>
+				<string>Visual Studio Code</string>
 				<key>types</key>
 				<array/>
 				<key>withspace</key>
