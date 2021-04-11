@@ -1,13 +1,13 @@
 {
   "name": "alfred-vscode2",
-  "version": "2.3.0",
-  "description": "Alfred workflow that allows you to browse and open Visual Studio Code (Insiders) projects",
+  "version": "2.3.1",
+  "description": "Alfred workflow that allows you to browse and open Visual Studio Code projects",
   "license": "MIT",
   "repository": "IOriens/alfred-vscode",
   "homepage": "https://github.com/IOriens/alfred-vscode#readme",
   "author": {
-    "name": "Konstantin Büschel",
-    "email": "konstantin.bueschel+npm@gmail.com",
+    "name": "Junjie Ding",
+    "email": "djjoriens@gmail.com",
     "url": "https://github.com/IOriens"
   },
   "keywords": [

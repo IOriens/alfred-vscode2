@@ -1,7 +1,7 @@
 # alfred-vscode2
 
 
-> [Alfred 3](https://www.alfredapp.com) workflow that allows you to browse and open rencent [Visual Studio Code](https://code.visualstudio.com/) projects or simply open specified folders/files.
+> [Alfred](https://www.alfredapp.com) workflow that allows you to browse and open rencent [Visual Studio Code](https://code.visualstudio.com/) projects or simply open specified folders/files.
 
 ![](./docs/screenshot.png)
 
@@ -10,7 +10,7 @@
 You need
 
 - [Node.js 8+](https://nodejs.org)
-- [Alfred 3](https://www.alfredapp.com) with the paid [Powerpack](https://www.alfredapp.com/powerpack/) upgrade
+- [Alfred](https://www.alfredapp.com) with the paid [Powerpack](https://www.alfredapp.com/powerpack/) upgrade
 - [Visual Studio Code Command Line](https://code.visualstudio.com/docs/setup/mac)
 
 ## Installation
